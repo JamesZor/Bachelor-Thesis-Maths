@@ -1,6 +1,8 @@
 # Spatiotemporal Dynamics of Cellular Cytokinesis
 ## Bachelor-Thesis-Maths
 
+See PDF document.
+
 ## Abstract
 The presence of travelling waves on the surface of starfish oocytes and other cellular systems
 during cytokinesis has sparked interest in understanding their precise dynamics. This study
